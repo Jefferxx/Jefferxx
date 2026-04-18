@@ -31,10 +31,9 @@ I am a Software Engineer specializing in Multi-Agent Orchestration, Private RAG 
 
 ---
 
-## Stats & GitHub Activity
+## Stats & Engineering Habits
 
-![Jefferxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefferxx&show_icons=true&theme=tokyonight&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferxx&layout=compact&theme=tokyonight&hide=html,css)
+![GitHub Metrics](https://github.com/Jefferxx/Jefferxx/raw/main/github-metrics.svg)
 
 ---
 
