@@ -25,15 +25,16 @@ I am a Software Engineer specializing in Multi-Agent Orchestration, Private RAG 
 - **The Tech:** Natural Language to SQL pipeline using local Mistral 7B via Ollama.
 - **Key Feature:** Enterprise-grade privacy; data never leaves the local environment.
 
-### [DashboardEtalent](https://github.com/Jefferxx/DashboardEtalent) - Security ETL Pipeline
-- **The Tech:** Automated security scanning (ZAP) integrated into a real-time data dashboard.
+### [Chatbot-Local---Ollama](https://github.com/Jefferxx/Chatbot-Local---Ollama) - Local RAG Pipeline
+- **The Tech:** 100% Local RAG system using Flowise, Ollama, and Mistral 7B.
+- **Key Feature:** High precision (0.2 temperature) and privacy-first knowledge ingestion with Docker-based orchestration.
 
 ---
 
 ## Stats & GitHub Activity
 
-![Jefferxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefferxx&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferxx&layout=compact&theme=tokyonight)
+![Jefferxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefferxx&show_icons=true&theme=tokyonight&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferxx&layout=compact&theme=tokyonight&hide=html,css)
 
 ---
 
