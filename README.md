@@ -38,8 +38,8 @@ I am a **Software Engineer** specializing in **Multi-Agent Orchestration**, **Pr
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/jefferson-herrera-801211226/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jefferxx/)
 - 🌐 [Portfolio](https://github.com/Jefferxx)
-- 📧 [Email](jeffersonherrera@example.com)
+- 📧 [Email](TU_EMAIL)
 
 *"I don't just write code; I design systems that minimize human friction."*
