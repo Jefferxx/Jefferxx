@@ -40,6 +40,6 @@ I am a Software Engineer specializing in Multi-Agent Orchestration, Private RAG 
 ## Contact & Links
 - [LinkedIn](https://www.linkedin.com/in/jefferxx/)
 - [Portfolio](https://github.com/Jefferxx)
-- [Email](TU_EMAIL)
+- [Email](mailto:jefferson.jordan2004@gmail.com)
 
 *"I don't just write code; I design systems that minimize human friction."*
