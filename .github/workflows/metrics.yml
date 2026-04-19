@@ -17,24 +17,20 @@ jobs:
           base: header, activity, repositories
           config_timezone: America/Guayaquil
           
-          # Plugin: Isocalendar
+          # Plugin: Isocalendar (Funcionando)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # Plugin: Languages
+          # Plugin: Languages (Funcionando y filtrado)
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss, less, jupyter notebook
           plugin_languages_limit: 8
           
-          # Plugin: Habits (Ajustado para evitar errores iniciales)
-          plugin_habits: yes
-          plugin_habits_from: 50
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          
-          # Plugin: Lines
+          # Plugin: Lines (Funcionando)
           plugin_lines: yes
+          
+          # Habits desactivado temporalmente para evitar errores visuales
+          plugin_habits: no
           
           # Optimización de errores
           committer_token: ${{ secrets.GITHUB_TOKEN }}
